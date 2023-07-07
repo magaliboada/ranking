@@ -54,5 +54,6 @@ The project has been tested with PHPUnit. You can run the tests with the followi
 
 - I have used the Symfony framework to create the project. I have used it because it is the framework
   I am most familiar with, although I have tried to use the minimum amount of components possible.
+- As I was not allowed to use any database, I have used a repository with static initial data.
 - The lack of comments in the code is because I have tried to make the code as readable as possible.
 - I apologise if there is any Pythonian code, I have been working with Python for the last 2 years :D
