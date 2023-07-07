@@ -18,7 +18,7 @@
 
 > In order to make the testing easier, I have created a postman collection with all the endpoints.
 > You can find it in the following folder location:
-> `socialpoint/project/Socialpoint.postman_collection.json`
+> `socialpoint/Socialpoint.postman_collection.json`
 
 - **POST** /user/{username}/{score}
     - Updates the score of the user with the given username.

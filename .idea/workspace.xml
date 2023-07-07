@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b4f767b7-1c96-4da6-899f-a337556efa1f" name="Changes" comment="Add readme" />
+    <list default="true" id="b4f767b7-1c96-4da6-899f-a337556efa1f" name="Changes" comment="Composer in project">
+      <change afterPath="$PROJECT_DIR$/Socialpoint.postman_collection.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/Socialpoint.postman_collection.json" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -372,6 +375,7 @@
       <workItem from="1688630613623" duration="37268000" />
       <workItem from="1688669027442" duration="11918000" />
       <workItem from="1688723650270" duration="33000" />
+      <workItem from="1688723692579" duration="301000" />
     </task>
     <task id="LOCAL-00001" summary="Add new scores">
       <option name="closed" value="true" />
@@ -469,7 +473,15 @@
       <option name="project" value="LOCAL" />
       <updated>1688723453417</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Composer in project">
+      <option name="closed" value="true" />
+      <created>1688723850569</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1688723850569</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -489,7 +501,8 @@
     <MESSAGE value="Add test repository" />
     <MESSAGE value="Fix warnings" />
     <MESSAGE value="Add readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add readme" />
+    <MESSAGE value="Composer in project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Composer in project" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
