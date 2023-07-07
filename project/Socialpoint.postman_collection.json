@@ -1,0 +1,97 @@
+{
+  "info": {
+    "_postman_id": "5b83e032-8634-4b10-955f-2e8d752a25b9",
+    "name": "Socialpoint",
+    "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+    "_exporter_id": "10526758"
+  },
+  "item": [
+    {
+      "name": "Home",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:8000",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8000"
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "Set New Score",
+      "request": {
+        "method": "POST",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:8000/user/Magali/+120",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8000",
+          "path": [
+            "user",
+            "Magali",
+            "+120"
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "View Absolute Ranking",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:8000/ranking?type=top4",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8000",
+          "path": [
+            "ranking"
+          ],
+          "query": [
+            {
+              "key": "type",
+              "value": "top4"
+            }
+          ]
+        }
+      },
+      "response": []
+    },
+    {
+      "name": "View Relative Ranking",
+      "request": {
+        "method": "GET",
+        "header": [],
+        "url": {
+          "raw": "http://localhost:8000/ranking?type=At0/0",
+          "protocol": "http",
+          "host": [
+            "localhost"
+          ],
+          "port": "8000",
+          "path": [
+            "ranking"
+          ],
+          "query": [
+            {
+              "key": "type",
+              "value": "At0/0"
+            }
+          ]
+        }
+      },
+      "response": []
+    }
+  ]
+}

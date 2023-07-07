@@ -1,0 +1,501 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b4f767b7-1c96-4da6-899f-a337556efa1f" name="Changes" comment="Add readme" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/project/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/project" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="/opt/homebrew/Cellar/php/8.2.7_2/bin/php">
+    <include_path>
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/form" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/password-hasher" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/web-link" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/intl" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/twig/extra-bundle" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/debug-bundle" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/doctrine-messenger" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/notifier" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/messenger" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/phpstan/phpdoc-parser" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/psr/clock" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/composer" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/doctrine/sql-formatter" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/clock" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/socialpoint/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/form" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/project/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/project/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/project/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/password-hasher" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/web-link" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/intl" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/polyfill-php83" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/project/vendor/twig/extra-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/project/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/debug-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/doctrine-messenger" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/notifier" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/project/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/messenger" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/project/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/project/vendor/phpstan/phpdoc-parser" />
+      <path value="$PROJECT_DIR$/project/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/project/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/project/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/project/vendor/phpunit/php-invoker" />
+      <path value="$PROJECT_DIR$/project/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/project/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/project/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/project/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/clock" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/project/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/project/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/deprecations" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/project/vendor/masterminds/html5" />
+      <path value="$PROJECT_DIR$/project/vendor/composer" />
+      <path value="$PROJECT_DIR$/project/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/project/vendor/sebastian/type" />
+      <path value="$PROJECT_DIR$/project/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/project/vendor/sebastian/lines-of-code" />
+      <path value="$PROJECT_DIR$/project/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/project/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/project/vendor/sebastian/code-unit" />
+      <path value="$PROJECT_DIR$/project/vendor/sebastian/cli-parser" />
+      <path value="$PROJECT_DIR$/project/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/project/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/project/vendor/sebastian/complexity" />
+      <path value="$PROJECT_DIR$/project/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/project/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/project/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/project/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/project/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/project/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/project/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/project/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/clock" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/project/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/project/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/project/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/project/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/project/vendor/ralouphie/getallheaders" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/http-factory" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/http-client" />
+      <path value="$PROJECT_DIR$/project/vendor/psr/http-message" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2SAewU1sYw8ItCMnK4OreQbH9HG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;code.cleanup.on.save&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/magali/PhpstormProjects/socialpoint/project/tests/Ranking/Domain/Models&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.standard&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.standard&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;php.override.implement.member.chooser.php.doc&quot;: &quot;NONE&quot;,
+    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project/tests/Ranking/Domain/Models" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/project" />
+      <recent name="$PROJECT_DIR$/project/tests/Ranking/Infrastructure/Http" />
+      <recent name="$PROJECT_DIR$/project/src/Ranking/Domain/Interfaces" />
+      <recent name="$PROJECT_DIR$/project/src/Product/Domain/Exceptions" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="PHPUnit.Ranking">
+    <configuration name="PlayerRepositoryTest.testGivenAPlayerListWhenGetByUsernameThenRaiseError" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="App\Tests\Ranking\Infrastructure\Repositories\PlayerRepositoryTest" configuration_file="$PROJECT_DIR$/project/phpunit.xml.dist" file="$PROJECT_DIR$/project/tests/Ranking/Infrastructure/Repositories/PlayerRepositoryTest.php" method="testGivenAPlayerListWhenGetByUsernameThenRaiseError" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PlayerRepositoryTest.testGivenAPlayerListWhenGetByUsernameThenReturnNull" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="App\Tests\Ranking\Infrastructure\Repositories\PlayerRepositoryTest" configuration_file="$PROJECT_DIR$/project/phpunit.xml.dist" file="$PROJECT_DIR$/project/tests/Ranking/Infrastructure/Repositories/PlayerRepositoryTest.php" method="testGivenAPlayerListWhenGetByUsernameThenReturnNull" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PlayerRepositoryTest.testGivenAnUnexistingUpdatedPlayerWhenSaveThenRaiseError" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="App\Tests\Ranking\Infrastructure\Repositories\PlayerRepositoryTest" configuration_file="$PROJECT_DIR$/project/phpunit.xml.dist" file="$PROJECT_DIR$/project/tests/Ranking/Infrastructure/Repositories/PlayerRepositoryTest.php" method="testGivenAnUnexistingUpdatedPlayerWhenSaveThenRaiseError" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="PlayerRepositoryTest.testGivenUnUpdatedPlayerWhenSaveThenUpdatePlayerInfo" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner class="App\Tests\Ranking\Infrastructure\Repositories\PlayerRepositoryTest" configuration_file="$PROJECT_DIR$/project/phpunit.xml.dist" file="$PROJECT_DIR$/project/tests/Ranking/Infrastructure/Repositories/PlayerRepositoryTest.php" method="testGivenUnUpdatedPlayerWhenSaveThenUpdatePlayerInfo" scope="Method" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Ranking" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner configuration_file="$PROJECT_DIR$/project/phpunit.xml.dist" directory="$PROJECT_DIR$/project/tests/Ranking" />
+      <method v="2" />
+    </configuration>
+    <configuration name="phpunit.xml.dist" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner scope="XML" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHPUnit.Ranking" />
+        <item itemvalue="PHPUnit.PlayerRepositoryTest.testGivenAnUnexistingUpdatedPlayerWhenSaveThenRaiseError" />
+        <item itemvalue="PHPUnit.PlayerRepositoryTest.testGivenUnUpdatedPlayerWhenSaveThenUpdatePlayerInfo" />
+        <item itemvalue="PHPUnit.PlayerRepositoryTest.testGivenAPlayerListWhenGetByUsernameThenRaiseError" />
+        <item itemvalue="PHPUnit.PlayerRepositoryTest.testGivenAPlayerListWhenGetByUsernameThenReturnNull" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4f767b7-1c96-4da6-899f-a337556efa1f" name="Changes" comment="" />
+      <created>1688594050497</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688594050497</updated>
+      <workItem from="1688594051499" duration="2726000" />
+      <workItem from="1688629312637" duration="1297000" />
+      <workItem from="1688630613623" duration="37268000" />
+      <workItem from="1688669027442" duration="11918000" />
+      <workItem from="1688723650270" duration="33000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add new scores">
+      <option name="closed" value="true" />
+      <created>1688657423316</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1688657423316</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add new scores">
+      <option name="closed" value="true" />
+      <created>1688658261159</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1688658261159</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Create Ranking use cases">
+      <option name="closed" value="true" />
+      <created>1688666030693</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1688666030693</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Create Ranking view">
+      <option name="closed" value="true" />
+      <created>1688717624779</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1688717624779</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Add Postman Request file">
+      <option name="closed" value="true" />
+      <created>1688718280492</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1688718280492</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Refactor tests">
+      <option name="closed" value="true" />
+      <created>1688719270647</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1688719270647</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Remove ORM">
+      <option name="closed" value="true" />
+      <created>1688719937842</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1688719937842</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Add test repository">
+      <option name="closed" value="true" />
+      <created>1688720377658</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1688720377658</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Add test repository">
+      <option name="closed" value="true" />
+      <created>1688720513867</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1688720513867</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Add test repository">
+      <option name="closed" value="true" />
+      <created>1688720536620</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1688720536620</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Fix warnings">
+      <option name="closed" value="true" />
+      <created>1688720988982</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1688720988982</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Add readme">
+      <option name="closed" value="true" />
+      <created>1688723453417</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1688723453417</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+      <path value="$PROJECT_DIR$/project" />
+    </ignored-roots>
+    <MESSAGE value="Add new scores" />
+    <MESSAGE value="Create Ranking use cases" />
+    <MESSAGE value="Create Ranking view" />
+    <MESSAGE value="Add Postman Request file" />
+    <MESSAGE value="Refactor tests" />
+    <MESSAGE value="Remove ORM" />
+    <MESSAGE value="Add test repository" />
+    <MESSAGE value="Fix warnings" />
+    <MESSAGE value="Add readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add readme" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/socialpoint@ScoreTest.xml" NAME="ScoreTest Coverage Results" MODIFIED="1688638182677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="PhpCoverage" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

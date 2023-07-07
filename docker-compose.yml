@@ -1,0 +1,17 @@
+version: "3.8"
+services:
+  # Apache Container
+  www:
+    build: docker/php
+    container_name: socialpoint_symfony
+    ports:
+      - "8000:80"
+    volumes:
+      - ./docker/php/vhosts:/etc/apache2/sites-enabled
+      - ./:/var/www
+    restart: always
+    networks:
+      - socialpoint_network
+
+networks:
+  socialpoint_network:

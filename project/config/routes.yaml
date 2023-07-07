@@ -1,0 +1,5 @@
+controllers:
+    resource:
+        path: ../src/Ranking/Infrastructure/Http/
+        namespace: App\Ranking\Infrastructure\Http
+    type: attribute
